@@ -7,44 +7,34 @@ import NotFound from '@/pages/not-found';
 import { Route, Switch, useLocation, Router as WouterRouter } from 'wouter';
 import CharacterViewport, { type CharacterShape } from '@/components/CharacterViewport';
 import {
-  Accessibility, CircleUserRound, Component, Crosshair, Eye, Footprints, Glasses,
-  Info, Layers3, RotateCcw, Scissors, Shirt, Sparkles, UserRound, WandSparkles,
+  Accessibility, Crosshair,
+  Info, RotateCcw, UserRound, Smile, Scissors, Shirt, Glasses,
 } from 'lucide-react';
-import { initialPieceSelections, pieceCatalog } from '@/studio/catalog';
 import type { BaseRatio } from '@/studio/baseAssets';
+import LibraryPanel from '@/components/LibraryPanel';
+import HairEditor from '@/components/HairEditor';
+import { emptySelections, sampleSelections } from '@/studio/modular/registry';
 import './studio.css';
 
 const queryClient = new QueryClient();
 const initialShape: CharacterShape = {
-  ...initialPieceSelections,
   model: 'feminino',
   ratio: '3HT',
   height: 1,
   torso: 1,
+  parts: { ...emptySelections },
+  colors: {},
 };
 
 const navItems = [
   { id: 'personagem', label: 'Personagem', icon: UserRound, ready: true },
   { id: 'corpo', label: 'Corpo', icon: Accessibility, ready: true },
-  { id: 'rosto', label: 'Rosto', icon: CircleUserRound, ready: true },
+  { id: 'rosto', label: 'Rosto', icon: Smile, ready: true },
   { id: 'cabelo', label: 'Cabelo', icon: Scissors, ready: true },
-  { id: 'vestuario', label: 'Vestuário', icon: Shirt, ready: true },
+  { id: 'roupas', label: 'Roupas', icon: Shirt, ready: true },
   { id: 'acessorios', label: 'Acessórios', icon: Glasses, ready: true },
-  { id: 'poses', label: 'Poses', icon: WandSparkles, ready: false },
-  { id: 'exportar', label: 'Exportar', icon: Layers3, ready: false },
 ] as const;
 type StudioSection = (typeof navItems)[number]['id'];
-
-const catalogSections = {
-  rosto: [{ field: 'eyes', title: 'Conjunto de olhos', options: pieceCatalog.eyes, icon: Eye }],
-  cabelo: [{ field: 'hair', title: 'Penteados', options: pieceCatalog.hair, icon: Sparkles }],
-  vestuario: [
-    { field: 'shirt', title: 'Camisas', options: pieceCatalog.shirts, icon: Shirt },
-    { field: 'pants', title: 'Calças', options: pieceCatalog.pants, icon: Accessibility },
-    { field: 'shoes', title: 'Calçados', options: pieceCatalog.shoes, icon: Footprints },
-  ],
-  acessorios: [{ field: 'accessory', title: 'Acessórios', options: pieceCatalog.accessories, icon: Component }],
-} as const;
 
 function SliderControl({ label, value, min, max, step, unit, onChange, testId }: {
   label: string; value: number; min: number; max: number; step: number; unit: string; onChange: (value: number) => void; testId: string;
@@ -65,67 +55,16 @@ function SliderControl({ label, value, min, max, step, unit, onChange, testId }:
   );
 }
 
-function PropertiesPanel({ section, shape, setShape, reset }: {
-  section: StudioSection; shape: CharacterShape; setShape: (shape: CharacterShape) => void; reset: () => void;
+function PropertiesPanel({ section, shape, setShape, reset, onEditHair, onHairSelect }: {
+  section: StudioSection; shape: CharacterShape; setShape: (shape: CharacterShape) => void; reset: () => void; onEditHair?: () => void; onHairSelect?: () => void;
 }) {
   const update = (key: keyof CharacterShape, value: CharacterShape[keyof CharacterShape]) =>
     setShape({ ...shape, [key]: value } as CharacterShape);
-  const activeCatalog = section in catalogSections
-    ? catalogSections[section as keyof typeof catalogSections]
-    : null;
-  if (activeCatalog) {
-    const step = navItems.findIndex((item) => item.id === section) + 1;
-    return (
-      <aside className="properties">
-        <header className="panel-title">
-          <h2>PROPRIEDADES</h2><span>{String(step).padStart(2, '0')} / 08</span>
-        </header>
-        {activeCatalog.map((group) => (
-          <section className="panel-section" key={group.field}>
-            <div className="section-top">
-              <div className="section-label">{group.title}</div>
-              <div className="section-kicker">{group.options.length} OPÇÕES</div>
-            </div>
-            <div className="piece-grid">
-              {group.options.map((option) => {
-                const selected = String(shape[group.field]) === option.id;
-                const Icon = group.icon;
-                return (
-                  <button
-                    key={option.id}
-                    type="button"
-                    className={`piece-card ${selected ? 'active' : ''}`}
-                    onClick={() => setShape({ ...shape, [group.field]: option.id } as CharacterShape)}
-                    data-testid={`piece-${group.field}-${option.id}`}
-                    aria-pressed={selected}
-                  >
-                    <span className={`piece-art piece-art-${option.icon}`} style={{ '--piece-tone': option.colorVariant } as CSSProperties}>
-                      <Icon size={19} strokeWidth={1.55} />
-                    </span>
-                    <span className="piece-name">{option.name}</span>
-                    <span className="piece-style">{option.style}</span>
-                  </button>
-                );
-              })}
-            </div>
-          </section>
-        ))}
-        <div className="note-card">
-          <div className="note-heading"><Info size={13} /> Peças do editor</div>
-          Olhos, cabelo e roupas são sobreposições geométricas ajustadas às bases em T-pose.
-        </div>
-        <section className="panel-section reset-section">
-          <button className="segment reset-button" onClick={reset} data-testid="button-reset-character">
-            <RotateCcw size={13} /> Restaurar personagem
-          </button>
-        </section>
-      </aside>
-    );
-  }
+  if (section !== 'personagem' && section !== 'corpo') return <LibraryPanel section={section} shape={shape} setShape={setShape} onEditHair={onEditHair} onHairSelect={onHairSelect} />;
   return (
     <aside className="properties">
       <header className="panel-title">
-        <h2>PROPRIEDADES</h2><span>{section === 'corpo' ? '02 / 08' : '01 / 08'}</span>
+        <h2>PROPRIEDADES</h2><span>{section === 'corpo' ? 'CORPO' : 'BASE'}</span>
       </header>
       {section === 'personagem' ? (
         <>
@@ -192,12 +131,14 @@ function PropertiesPanel({ section, shape, setShape, reset }: {
       )}
       <div className="note-card">
         <div className="note-heading"><Info size={13} /> Base Dreamloft3D</div>
-        Malhas importadas sem rig ou textura facial. A cabeça só pode ser redimensionada escolhendo outra proporção.
+        Seis bases originais, com peças ajustadas individualmente. Escolha uma categoria para montar seu personagem.
         <a href={`${import.meta.env.BASE_URL}licenses/dreamloft3d-chibi-license.txt`} target="_blank" rel="noreferrer">Ver licença do pacote</a>
       </div>
       <section className="panel-section" style={{ paddingTop: 0, borderBottom: 0 }}>
+        <button className="sample-button" onClick={() => setShape({ ...shape, parts: { ...sampleSelections }, colors: {} })} data-testid="button-sample-outfit">Experimentar conjunto inicial</button>
         <button className="segment" style={{ width: '100%', border: '1px solid #303235', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8 }}
-          onClick={reset} data-testid="button-reset-character"><RotateCcw size={13} /> Restaurar personagem</button>
+          onClick={reset} data-testid="button-reset-character"><RotateCcw size={13} /> Restaurar base sem peças</button>
+        <p className="future-tooltip">Altura de referência: 120 mm. Ajustes de escala afetam corpo e peças juntos.</p>
       </section>
     </aside>
   );
@@ -206,7 +147,9 @@ function PropertiesPanel({ section, shape, setShape, reset }: {
 function Home() {
   const [section, setSection] = useState<StudioSection>('personagem');
   const [shape, setShape] = useState<CharacterShape>(initialShape);
+  const [hairEditorOpen, setHairEditorOpen] = useState(false);
   const reset = () => setShape({ ...initialShape });
+  const hasHair = Boolean(shape.parts.hair);
   return (
     <main className="studio">
       <header className="topbar">
@@ -215,7 +158,7 @@ function Home() {
         <div className="project-name"><b>Personagem sem título</b> <span>·</span> Projeto local</div>
         <div className="top-spacer" />
         <div className="saved-state"><i className="live-dot" /> Alterações locais</div>
-        <div className="phase-tag">FASE 02</div>
+        <div className="phase-tag">COLEÇÃO 01</div>
       </header>
       <div className="workspace">
         <nav className="rail" aria-label="Ferramentas do estúdio">
@@ -227,10 +170,29 @@ function Home() {
             </button>
           ))}
           <div className="rail-spacer" />
-          <div className="rail-caption">FASE<br />02</div>
+          <div className="rail-caption">18 PEÇAS</div>
         </nav>
         <CharacterViewport shape={shape} />
-        <PropertiesPanel section={section} shape={shape} setShape={setShape} reset={reset} />
+        {section === "cabelo" && hasHair && (
+          <HairEditor
+            open={hairEditorOpen}
+            shape={shape}
+            onClose={() => setHairEditorOpen(false)}
+            onChange={setShape}
+          />
+        )}
+        <PropertiesPanel
+          section={section}
+          shape={shape}
+          setShape={setShape}
+          reset={reset}
+          onEditHair={() => setHairEditorOpen(true)}
+          onHairSelect={() => {
+            if (section === "cabelo" && shape.parts.hair) {
+              setHairEditorOpen(true);
+            }
+          }}
+        />
       </div>
       <footer className="bottom-bar">
         <div className="bottom-left"><i className="bottom-dot" /><span className="bottom-status">Cena pronta</span><span>·</span><span>Editor local</span></div>

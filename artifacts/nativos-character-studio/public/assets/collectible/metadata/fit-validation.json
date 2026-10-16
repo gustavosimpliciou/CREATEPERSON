@@ -1,0 +1,398 @@
+[
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-short",
+    "samples": 1146,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-medium",
+    "samples": 1223,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-long",
+    "samples": 1265,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-tee",
+    "samples": 1964,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-polo",
+    "samples": 1964,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-sweater",
+    "samples": 3460,
+    "sampledInsideBody": 1
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-straight",
+    "samples": 1679,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-shorts",
+    "samples": 1269,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-relaxed",
+    "samples": 1388,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "accessory-cap",
+    "samples": 1057,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "accessory-hat",
+    "samples": 1057,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-short",
+    "samples": 1146,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-medium",
+    "samples": 1223,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-long",
+    "samples": 1265,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-tee",
+    "samples": 1709,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-polo",
+    "samples": 1709,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-sweater",
+    "samples": 3201,
+    "sampledInsideBody": 1
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-straight",
+    "samples": 1676,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-shorts",
+    "samples": 1246,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-relaxed",
+    "samples": 1385,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "accessory-cap",
+    "samples": 1056,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "accessory-hat",
+    "samples": 1056,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-short",
+    "samples": 1178,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-medium",
+    "samples": 1221,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-long",
+    "samples": 1233,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-tee",
+    "samples": 2628,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-polo",
+    "samples": 2628,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-sweater",
+    "samples": 4411,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-straight",
+    "samples": 1866,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-shorts",
+    "samples": 1464,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-relaxed",
+    "samples": 1665,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "accessory-cap",
+    "samples": 1054,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "accessory-hat",
+    "samples": 1054,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-short",
+    "samples": 1178,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-medium",
+    "samples": 1221,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-long",
+    "samples": 1233,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-tee",
+    "samples": 2193,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-polo",
+    "samples": 2193,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-sweater",
+    "samples": 3974,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-straight",
+    "samples": 1900,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-shorts",
+    "samples": 1489,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-relaxed",
+    "samples": 1695,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "accessory-cap",
+    "samples": 1053,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "accessory-hat",
+    "samples": 1053,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-short",
+    "samples": 1137,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-medium",
+    "samples": 1193,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-long",
+    "samples": 1199,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-tee",
+    "samples": 3024,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-polo",
+    "samples": 3024,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-sweater",
+    "samples": 3987,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-straight",
+    "samples": 1841,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-shorts",
+    "samples": 1050,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-relaxed",
+    "samples": 1986,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "accessory-cap",
+    "samples": 1002,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "accessory-hat",
+    "samples": 1002,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-short",
+    "samples": 1137,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-medium",
+    "samples": 1194,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-long",
+    "samples": 1198,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-tee",
+    "samples": 2610,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-polo",
+    "samples": 2610,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-sweater",
+    "samples": 3574,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-straight",
+    "samples": 1824,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-shorts",
+    "samples": 1026,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-relaxed",
+    "samples": 1961,
+    "sampledInsideBody": 1
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "accessory-cap",
+    "samples": 1002,
+    "sampledInsideBody": 0
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "accessory-hat",
+    "samples": 1002,
+    "sampledInsideBody": 0
+  }
+]

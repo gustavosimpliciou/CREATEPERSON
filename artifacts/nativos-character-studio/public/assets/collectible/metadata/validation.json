@@ -1,0 +1,6626 @@
+[
+  {
+    "base": "2HT-feminino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 124.93
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.13
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.64
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15.35
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 124.93
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.13
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.64
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15.35
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 121.75
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.13
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.37
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 12.32
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 121.75
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.13
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.37
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 12.32
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79.09
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 24.77
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.74
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.83
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79.09
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 24.77
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.74
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.83
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 17.9
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.51
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.4
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4.27
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3438,
+        "triangles": 6872,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9469.38
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3667,
+        "triangles": 7338,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13297.89
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3793,
+        "triangles": 7590,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16770.89
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5892,
+        "triangles": 11808,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4029.49
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2807,
+        "triangles": 5614,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 163.79
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 877,
+        "triangles": 1746,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 126.46
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1000,
+        "triangles": 2000,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.77
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 990,
+        "triangles": 1980,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.73
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5892,
+        "triangles": 11808,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4029.49
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2807,
+        "triangles": 5614,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 163.79
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 877,
+        "triangles": 1746,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 126.46
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1000,
+        "triangles": 2000,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.77
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 990,
+        "triangles": 1980,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.73
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.47
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.47
+      },
+      {
+        "name": "button-0",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 10379,
+        "triangles": 20790,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5204.35
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2807,
+        "triangles": 5614,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 163.79
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 877,
+        "triangles": 1746,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 126.46
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2689,
+        "triangles": 5378,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 93.7
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 970,
+        "triangles": 1936,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.05
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2763,
+        "triangles": 5526,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 94.37
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 964,
+        "triangles": 1924,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.77
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 245,
+        "triangles": 486,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 27.71
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5036,
+        "triangles": 10084,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3647.44
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1125,
+        "triangles": 2250,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 63.08
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3104,
+        "triangles": 6208,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 154.37
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1117,
+        "triangles": 2234,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 63.04
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 3807,
+        "triangles": 7626,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2554.9
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1165,
+        "triangles": 2330,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 80.36
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3104,
+        "triangles": 6208,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 154.37
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1131,
+        "triangles": 2262,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 80.26
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 4163,
+        "triangles": 8346,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4069.12
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1303,
+        "triangles": 2606,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.93
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3682,
+        "triangles": 7364,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 190.67
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1321,
+        "triangles": 2642,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.88
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 144,
+        "triangles": 284,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.71
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 144,
+        "triangles": 284,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.71
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 1075,
+        "triangles": 2150,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 95.77
+      },
+      {
+        "name": "temple--1",
+        "vertices": 246,
+        "triangles": 488,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 74.95
+      },
+      {
+        "name": "frame-1",
+        "vertices": 1133,
+        "triangles": 2266,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 95.8
+      },
+      {
+        "name": "temple-1",
+        "vertices": 246,
+        "triangles": 488,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 74.95
+      },
+      {
+        "name": "bridge",
+        "vertices": 143,
+        "triangles": 282,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3170,
+        "triangles": 6336,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6913.29
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 587,
+        "triangles": 1170,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 789.23
+      }
+    ]
+  },
+  {
+    "base": "2HT-feminino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3170,
+        "triangles": 6336,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6913.29
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 641,
+        "triangles": 1282,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1706.76
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 124.93
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.13
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.64
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15.35
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 124.93
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.13
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.64
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15.35
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 121.75
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.13
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.37
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 12.32
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 121.75
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.13
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 10.37
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 12.32
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79.09
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 24.77
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.74
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.83
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79.09
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 24.77
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.74
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.83
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 17.9
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.51
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.4
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4.27
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3437,
+        "triangles": 6870,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9469.49
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3668,
+        "triangles": 7340,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13298.08
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3794,
+        "triangles": 7592,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16771.32
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5126,
+        "triangles": 10288,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4301.32
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2384,
+        "triangles": 4768,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 153.06
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 986,
+        "triangles": 1972,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.77
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 525,
+        "triangles": 1042,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.57
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 995,
+        "triangles": 1990,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.72
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5126,
+        "triangles": 10288,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4301.32
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2384,
+        "triangles": 4768,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 153.06
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 986,
+        "triangles": 1972,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.77
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 525,
+        "triangles": 1042,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.57
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 995,
+        "triangles": 1990,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 57.72
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.47
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.47
+      },
+      {
+        "name": "button-0",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 306,
+        "triangles": 608,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 9603,
+        "triangles": 19250,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5476.62
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2384,
+        "triangles": 4768,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 153.06
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2685,
+        "triangles": 5370,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 93.7
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 973,
+        "triangles": 1942,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.02
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 525,
+        "triangles": 1042,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.57
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2761,
+        "triangles": 5522,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 94.35
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 966,
+        "triangles": 1928,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 38.76
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 245,
+        "triangles": 486,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 27.82
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5028,
+        "triangles": 10076,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3550.38
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1131,
+        "triangles": 2262,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 62.96
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2949,
+        "triangles": 5898,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 148.14
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1131,
+        "triangles": 2262,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 62.9
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 3736,
+        "triangles": 7492,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2468.64
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1149,
+        "triangles": 2298,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79.14
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2949,
+        "triangles": 5898,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 148.14
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1150,
+        "triangles": 2300,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 79
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 4155,
+        "triangles": 8330,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3936.3
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1291,
+        "triangles": 2582,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.88
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3636,
+        "triangles": 7272,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 182.23
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1324,
+        "triangles": 2648,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.81
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 147,
+        "triangles": 290,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.8
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 146,
+        "triangles": 288,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.8
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 1075,
+        "triangles": 2150,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 95.77
+      },
+      {
+        "name": "temple--1",
+        "vertices": 246,
+        "triangles": 488,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 74.95
+      },
+      {
+        "name": "frame-1",
+        "vertices": 1136,
+        "triangles": 2272,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 95.8
+      },
+      {
+        "name": "temple-1",
+        "vertices": 246,
+        "triangles": 488,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 74.95
+      },
+      {
+        "name": "bridge",
+        "vertices": 141,
+        "triangles": 278,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 15
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3168,
+        "triangles": 6332,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6913.41
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 587,
+        "triangles": 1170,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 789.22
+      }
+    ]
+  },
+  {
+    "base": "2HT-masculino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3168,
+        "triangles": 6332,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6913.41
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 641,
+        "triangles": 1282,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1706.82
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 67.52
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 21.15
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.75
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.65
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 67.52
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 21.15
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.75
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.65
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 65.8
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.61
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.61
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.38
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 65.8
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.61
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.61
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.38
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 42.74
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.39
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.64
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.21
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 42.74
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.39
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.64
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.21
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.94
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.96
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 23.45
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.31
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3534,
+        "triangles": 7064,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4310.24
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3663,
+        "triangles": 7330,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6143.94
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3697,
+        "triangles": 7398,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7795.78
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 7882,
+        "triangles": 15776,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5082.01
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2409,
+        "triangles": 4818,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 82.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3001,
+        "triangles": 6002,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 147.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 985,
+        "triangles": 1970,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.07
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1007,
+        "triangles": 2014,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.03
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 7882,
+        "triangles": 15776,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5082.01
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2409,
+        "triangles": 4818,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 82.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3001,
+        "triangles": 6002,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 147.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 985,
+        "triangles": 1970,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.07
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1007,
+        "triangles": 2014,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.03
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.71
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.71
+      },
+      {
+        "name": "button-0",
+        "vertices": 303,
+        "triangles": 602,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 13231,
+        "triangles": 26466,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6308.73
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2409,
+        "triangles": 4818,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 82.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3001,
+        "triangles": 6002,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 147.31
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2036,
+        "triangles": 4072,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.4
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 807,
+        "triangles": 1610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.51
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1057,
+        "triangles": 2106,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 41.21
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2071,
+        "triangles": 4146,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 78.73
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 809,
+        "triangles": 1614,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 39.49
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1099,
+        "triangles": 2190,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 44.74
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 240,
+        "triangles": 476,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 22.59
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5596,
+        "triangles": 11204,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4077.99
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4305,
+        "triangles": 8602,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 149.99
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1117,
+        "triangles": 2234,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 61.79
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1117,
+        "triangles": 2234,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 61.8
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 4391,
+        "triangles": 8794,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2524.32
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4305,
+        "triangles": 8602,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 149.99
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1181,
+        "triangles": 2362,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 60.69
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1167,
+        "triangles": 2334,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 60.64
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 4995,
+        "triangles": 10002,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4630.59
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4948,
+        "triangles": 9896,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 191.28
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1375,
+        "triangles": 2750,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 75.03
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1380,
+        "triangles": 2760,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 75.02
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 112,
+        "triangles": 220,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.83
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 116,
+        "triangles": 228,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.79
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 815,
+        "triangles": 1630,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.42
+      },
+      {
+        "name": "temple--1",
+        "vertices": 235,
+        "triangles": 466,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.06
+      },
+      {
+        "name": "frame-1",
+        "vertices": 816,
+        "triangles": 1632,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.44
+      },
+      {
+        "name": "temple-1",
+        "vertices": 235,
+        "triangles": 466,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.06
+      },
+      {
+        "name": "bridge",
+        "vertices": 156,
+        "triangles": 308,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.67
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3160,
+        "triangles": 6316,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3146.15
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 573,
+        "triangles": 1142,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 505.47
+      }
+    ]
+  },
+  {
+    "base": "3HT-feminino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3160,
+        "triangles": 6316,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3146.15
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 583,
+        "triangles": 1166,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1124.38
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 67.52
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 21.15
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.75
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.65
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 67.52
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 21.15
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.75
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.65
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 65.8
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.61
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.61
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.38
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 65.8
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 20.61
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.61
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.38
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 42.74
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.39
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.64
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.21
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 42.74
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.39
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.64
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.21
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 13.94
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 14.96
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 23.45
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.31
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3534,
+        "triangles": 7064,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4310.23
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3663,
+        "triangles": 7330,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6143.92
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3699,
+        "triangles": 7402,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7795.73
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 6579,
+        "triangles": 13170,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4945.47
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2386,
+        "triangles": 4772,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 81.68
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2989,
+        "triangles": 5978,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 148.98
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 982,
+        "triangles": 1964,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.08
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1009,
+        "triangles": 2018,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.03
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 6579,
+        "triangles": 13170,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4945.47
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2386,
+        "triangles": 4772,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 81.68
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2989,
+        "triangles": 5978,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 148.98
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 982,
+        "triangles": 1964,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.08
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1009,
+        "triangles": 2018,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 55.03
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.71
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.71
+      },
+      {
+        "name": "button-0",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 303,
+        "triangles": 602,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 11920,
+        "triangles": 23852,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6181.25
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2386,
+        "triangles": 4772,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 81.68
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2989,
+        "triangles": 5978,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 148.98
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2045,
+        "triangles": 4086,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 76.95
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 814,
+        "triangles": 1624,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 41.11
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1050,
+        "triangles": 2092,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 40.88
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2077,
+        "triangles": 4150,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 77.86
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 819,
+        "triangles": 1634,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 41.12
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1072,
+        "triangles": 2136,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 43.71
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 244,
+        "triangles": 484,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 22.62
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5699,
+        "triangles": 11410,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4008.48
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4111,
+        "triangles": 8230,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 140.51
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1106,
+        "triangles": 2212,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 62.18
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1118,
+        "triangles": 2236,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 62.25
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 4465,
+        "triangles": 8942,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2428.51
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4111,
+        "triangles": 8230,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 140.51
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1210,
+        "triangles": 2420,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 60.88
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1176,
+        "triangles": 2352,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 60.97
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5085,
+        "triangles": 10202,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4503.56
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 4664,
+        "triangles": 9324,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 181.85
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1359,
+        "triangles": 2718,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 75.51
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1372,
+        "triangles": 2744,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 75.56
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 109,
+        "triangles": 214,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.83
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 115,
+        "triangles": 226,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.82
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 814,
+        "triangles": 1628,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.42
+      },
+      {
+        "name": "temple--1",
+        "vertices": 235,
+        "triangles": 466,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.06
+      },
+      {
+        "name": "frame-1",
+        "vertices": 818,
+        "triangles": 1636,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.44
+      },
+      {
+        "name": "temple-1",
+        "vertices": 235,
+        "triangles": 466,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.06
+      },
+      {
+        "name": "bridge",
+        "vertices": 156,
+        "triangles": 308,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 11.67
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3159,
+        "triangles": 6314,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3146.13
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 573,
+        "triangles": 1142,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 505.37
+      }
+    ]
+  },
+  {
+    "base": "3HT-masculino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3159,
+        "triangles": 6314,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3146.13
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 583,
+        "triangles": 1166,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1124.38
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 26.13
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.18
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.23
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.33
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 26.13
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.18
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.23
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.33
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 25.47
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.98
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.17
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.6
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 25.47
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.98
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.17
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.6
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16.54
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.18
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1.41
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.82
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16.54
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.18
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1.41
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.82
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.04
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.55
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.08
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.89
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3410,
+        "triangles": 6816,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2259.16
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3579,
+        "triangles": 7162,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3083.83
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3597,
+        "triangles": 7198,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3876.59
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 9071,
+        "triangles": 18150,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5564.76
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2851,
+        "triangles": 5702,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 146.05
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1822,
+        "triangles": 3632,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 71.28
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1079,
+        "triangles": 2158,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.22
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1080,
+        "triangles": 2160,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.22
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 9071,
+        "triangles": 18150,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5564.76
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2851,
+        "triangles": 5702,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 146.05
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1822,
+        "triangles": 3632,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 71.28
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1079,
+        "triangles": 2158,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.22
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1080,
+        "triangles": 2160,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.22
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.78
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.78
+      },
+      {
+        "name": "button-0",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 305,
+        "triangles": 606,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 11960,
+        "triangles": 23928,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6516.01
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2851,
+        "triangles": 5702,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 146.05
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1822,
+        "triangles": 3632,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 71.28
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2759,
+        "triangles": 5518,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 92.39
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2737,
+        "triangles": 5474,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 91.96
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 221,
+        "triangles": 438,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 17.38
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5521,
+        "triangles": 11054,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3499.97
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3177,
+        "triangles": 6354,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 112.04
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1387,
+        "triangles": 2774,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 36.14
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1369,
+        "triangles": 2738,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 36.13
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 3149,
+        "triangles": 6310,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2172.25
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 876,
+        "triangles": 1748,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 41.18
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3177,
+        "triangles": 6354,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 112.04
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 935,
+        "triangles": 1866,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 41.15
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5958,
+        "triangles": 11936,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 4050.37
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3653,
+        "triangles": 7306,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 140.77
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1438,
+        "triangles": 2872,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 44.17
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1402,
+        "triangles": 2800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 44.18
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 113,
+        "triangles": 222,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.01
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 113,
+        "triangles": 222,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.01
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 796,
+        "triangles": 1592,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.4
+      },
+      {
+        "name": "temple--1",
+        "vertices": 221,
+        "triangles": 438,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 32.17
+      },
+      {
+        "name": "frame-1",
+        "vertices": 795,
+        "triangles": 1590,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.41
+      },
+      {
+        "name": "temple-1",
+        "vertices": 222,
+        "triangles": 440,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 32.17
+      },
+      {
+        "name": "bridge",
+        "vertices": 130,
+        "triangles": 256,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.68
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3006,
+        "triangles": 6008,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1661.23
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 480,
+        "triangles": 956,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 384.71
+      }
+    ]
+  },
+  {
+    "base": "4HT-feminino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3006,
+        "triangles": 6008,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1661.23
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 613,
+        "triangles": 1226,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 835.93
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "eyes-round",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 26.13
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.18
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.23
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.33
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 26.13
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.18
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.23
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.33
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "eyes-oval",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 25.47
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.98
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.17
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.6
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 25.47
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.98
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2.17
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.6
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "eyes-soft",
+    "meshes": [
+      {
+        "name": "sclera--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16.54
+      },
+      {
+        "name": "iris--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.18
+      },
+      {
+        "name": "pupil--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1.41
+      },
+      {
+        "name": "highlight--1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow--1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.82
+      },
+      {
+        "name": "sclera-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 16.54
+      },
+      {
+        "name": "iris-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5.18
+      },
+      {
+        "name": "pupil-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1.41
+      },
+      {
+        "name": "highlight-1",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.66
+      },
+      {
+        "name": "brow-1",
+        "vertices": 402,
+        "triangles": 800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.82
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "mouth-neutral",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.04
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "mouth-smile",
+    "meshes": [
+      {
+        "name": "mouth-relief",
+        "vertices": 642,
+        "triangles": 1280,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 8.55
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "mouth-joy",
+    "meshes": [
+      {
+        "name": "open-smile",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 9.08
+      },
+      {
+        "name": "smile-detail",
+        "vertices": 674,
+        "triangles": 1344,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.89
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-short",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3410,
+        "triangles": 6816,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2259.16
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-medium",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3580,
+        "triangles": 7164,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3083.84
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "hair-long",
+    "meshes": [
+      {
+        "name": "sculpted-scalp",
+        "vertices": 3594,
+        "triangles": 7192,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3875.71
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-tee",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 7829,
+        "triangles": 15666,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5744.78
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2700,
+        "triangles": 5400,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 135.94
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1821,
+        "triangles": 3630,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.86
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1083,
+        "triangles": 2166,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.95
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1080,
+        "triangles": 2160,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.95
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-polo",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 7829,
+        "triangles": 15666,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 5744.78
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2700,
+        "triangles": 5400,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 135.94
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1821,
+        "triangles": 3630,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.86
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1083,
+        "triangles": 2166,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.95
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1080,
+        "triangles": 2160,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 50.95
+      },
+      {
+        "name": "collar--1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.78
+      },
+      {
+        "name": "collar-1",
+        "vertices": 8,
+        "triangles": 12,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3.78
+      },
+      {
+        "name": "button-0",
+        "vertices": 302,
+        "triangles": 600,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-1",
+        "vertices": 305,
+        "triangles": 606,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      },
+      {
+        "name": "button-2",
+        "vertices": 307,
+        "triangles": 610,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 0.91
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "shirt-sweater",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 10721,
+        "triangles": 21450,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6694.67
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2700,
+        "triangles": 5400,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 135.94
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1821,
+        "triangles": 3630,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 70.86
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2764,
+        "triangles": 5528,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 92.83
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 2682,
+        "triangles": 5364,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 92.44
+      },
+      {
+        "name": "pocket-seam",
+        "vertices": 221,
+        "triangles": 438,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 17.39
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-straight",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5470,
+        "triangles": 10944,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3459.73
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3016,
+        "triangles": 6032,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 107.93
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1383,
+        "triangles": 2766,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 36.11
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1371,
+        "triangles": 2742,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 36.11
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-shorts",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 3076,
+        "triangles": 6156,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 2106.52
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 902,
+        "triangles": 1800,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 40.55
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3016,
+        "triangles": 6032,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 107.93
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 929,
+        "triangles": 1854,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 40.56
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "pants-relaxed",
+    "meshes": [
+      {
+        "name": "fitted-shell",
+        "vertices": 5882,
+        "triangles": 11776,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 3982.02
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 3713,
+        "triangles": 7426,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 137.43
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1428,
+        "triangles": 2852,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 44.15
+      },
+      {
+        "name": "bound-edge",
+        "vertices": 1400,
+        "triangles": 2796,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 44.16
+      },
+      {
+        "name": "pocket--1",
+        "vertices": 104,
+        "triangles": 204,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.09
+      },
+      {
+        "name": "pocket-1",
+        "vertices": 106,
+        "triangles": 208,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 6.09
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "accessory-glasses",
+    "meshes": [
+      {
+        "name": "frame--1",
+        "vertices": 797,
+        "triangles": 1594,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.4
+      },
+      {
+        "name": "temple--1",
+        "vertices": 221,
+        "triangles": 438,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 32.17
+      },
+      {
+        "name": "frame-1",
+        "vertices": 795,
+        "triangles": 1590,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 46.41
+      },
+      {
+        "name": "temple-1",
+        "vertices": 222,
+        "triangles": 440,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 32.17
+      },
+      {
+        "name": "bridge",
+        "vertices": 130,
+        "triangles": 256,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 7.68
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "accessory-cap",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3004,
+        "triangles": 6004,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1661.23
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 480,
+        "triangles": 956,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 384.81
+      }
+    ]
+  },
+  {
+    "base": "4HT-masculino",
+    "piece": "accessory-hat",
+    "meshes": [
+      {
+        "name": "crown",
+        "vertices": 3004,
+        "triangles": 6004,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 1661.23
+      },
+      {
+        "name": "shaped-brim",
+        "vertices": 614,
+        "triangles": 1228,
+        "boundaryEdges": 0,
+        "nonManifoldEdges": 0,
+        "windingErrors": 0,
+        "degenerateTriangles": 0,
+        "looseVertices": 0,
+        "finite": true,
+        "signedVolumeMm3": 835.94
+      }
+    ]
+  }
+]

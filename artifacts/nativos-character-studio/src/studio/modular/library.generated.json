@@ -1,0 +1,1742 @@
+{
+  "schemaVersion": 1,
+  "libraryVersion": "1.0.0",
+  "units": "millimeter",
+  "glbUnits": "meter",
+  "canonicalHeightMm": 120,
+  "axis": {
+    "up": "+Y",
+    "front": "+Z",
+    "right": "+X"
+  },
+  "profiles": {
+    "2HT-feminino": {
+      "id": "2HT-feminino",
+      "ratio": "2HT",
+      "gender": "feminino",
+      "sourceFile": "chibi-2ht-fft.glb",
+      "sourceSha256": "a547932752750c2ce8c382ee74c0147ebddde7b6f9b4a227b99f4bb05ad84177",
+      "sourceMinY": -0.000014543533325195312,
+      "sourceScaleToMm": 61.19461646043593,
+      "heightMm": 120,
+      "headWidth": 71.01311492919922,
+      "headDepth": 63.080583572387695,
+      "headHeight": 63.7000617980957,
+      "headCenterY": 89.34503001818027,
+      "headCenterZ": -7.374255180358887,
+      "eyeY": 87.5091915243672,
+      "mouthY": 73.43442973846693,
+      "neckY": 56.29993712954487,
+      "waistY": 34.881821368392295,
+      "ankleY": 7.344243961196127,
+      "shortsY": 15.911490265657157,
+      "armSpan": 97.41048619859161,
+      "anchors": {
+        "HEAD": [
+          0,
+          89.34503001818027,
+          -7.374255180358887
+        ],
+        "FACE_EYES": [
+          0,
+          87.5091915243672,
+          23.152812883910485
+        ],
+        "FACE_MOUTH": [
+          0,
+          73.43442973846693,
+          20.847337034276222
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          -7.374255180358887
+        ],
+        "NECK": [
+          0,
+          56.29993712954487,
+          0
+        ],
+        "TORSO": [
+          0,
+          45.590879248968584,
+          0
+        ],
+        "WAIST": [
+          0,
+          34.881821368392295,
+          0
+        ]
+      }
+    },
+    "2HT-masculino": {
+      "id": "2HT-masculino",
+      "ratio": "2HT",
+      "gender": "masculino",
+      "sourceFile": "chibi-2ht-mft.glb",
+      "sourceSha256": "1d18f46963853bf1edf8084557ae539dfd9448b24fe26fefbfbca6b4632bff53",
+      "sourceMinY": -3.5762786865234375e-7,
+      "sourceScaleToMm": 61.19505915622521,
+      "heightMm": 120,
+      "headWidth": 71.01363372802734,
+      "headDepth": 63.08104133605957,
+      "headHeight": 63.700523376464844,
+      "headCenterY": 89.34480825314739,
+      "headCenterZ": -7.3743085861206055,
+      "eyeY": 87.50895647846063,
+      "mouthY": 73.43409287252884,
+      "neckY": 56.29947630878578,
+      "waistY": 34.881205604106945,
+      "ankleY": 7.3434289838056035,
+      "shortsY": 15.910737265677135,
+      "armSpan": 97.41067294184246,
+      "anchors": {
+        "HEAD": [
+          0,
+          89.34480825314739,
+          -7.3743085861206055
+        ],
+        "FACE_EYES": [
+          0,
+          87.50895647846063,
+          23.152980864093735
+        ],
+        "FACE_MOUTH": [
+          0,
+          73.43409287252884,
+          20.847494084348966
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          -7.3743085861206055
+        ],
+        "NECK": [
+          0,
+          56.29947630878578,
+          0
+        ],
+        "TORSO": [
+          0,
+          45.59034095644636,
+          0
+        ],
+        "WAIST": [
+          0,
+          34.881205604106945,
+          0
+        ]
+      }
+    },
+    "3HT-feminino": {
+      "id": "3HT-feminino",
+      "ratio": "3HT",
+      "gender": "feminino",
+      "sourceFile": "chibi-3ht-fft.glb",
+      "sourceSha256": "d1284c20b937af22be1c5a9ce27b372fb2d916d34f9c7392b7cc382d6c810bfb",
+      "sourceMinY": 0.0000064373016357421875,
+      "sourceScaleToMm": 42.68596430864614,
+      "heightMm": 120,
+      "headWidth": 52.20603942871094,
+      "headDepth": 43.71994590759277,
+      "headHeight": 44.44612121582031,
+      "headCenterY": 98.17744312745825,
+      "headCenterZ": -1.8420171737670898,
+      "eyeY": 97.32372384128533,
+      "mouthY": 86.22537312103734,
+      "neckY": 75.5538820438758,
+      "waistY": 46.10056667090997,
+      "ankleY": 7.256339150041978,
+      "shortsY": 23.47700558732751,
+      "armSpan": 104.19097310889263,
+      "anchors": {
+        "HEAD": [
+          0,
+          98.17744312745825,
+          -1.8420171737670898
+        ],
+        "FACE_EYES": [
+          0,
+          97.32372384128533,
+          16.48592551558866
+        ],
+        "FACE_MOUTH": [
+          0,
+          86.22537312103734,
+          20.000077705513092
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          -1.8420171737670898
+        ],
+        "NECK": [
+          0,
+          75.5538820438758,
+          0
+        ],
+        "TORSO": [
+          0,
+          60.827224357392886,
+          0
+        ],
+        "WAIST": [
+          0,
+          46.10056667090997,
+          0
+        ]
+      }
+    },
+    "3HT-masculino": {
+      "id": "3HT-masculino",
+      "ratio": "3HT",
+      "gender": "masculino",
+      "sourceFile": "chibi-3ht-mft.glb",
+      "sourceSha256": "492452df1812238c6e9e267148732c1c02d3edf362910b10e361f7621e238fc4",
+      "sourceMinY": 0.0000016689300537109375,
+      "sourceScaleToMm": 42.68589190535593,
+      "heightMm": 120,
+      "headWidth": 52.20595169067383,
+      "headDepth": 43.71986961364746,
+      "headHeight": 44.446044921875,
+      "headCenterY": 98.17748014255076,
+      "headCenterZ": -1.8420133590698242,
+      "eyeY": 97.32376230444365,
+      "mouthY": 86.22543040905111,
+      "neckY": 75.55395743271212,
+      "waistY": 46.10069201801654,
+      "ankleY": 7.256530384142638,
+      "shortsY": 23.477169308177892,
+      "armSpan": 104.24368682082104,
+      "anchors": {
+        "HEAD": [
+          0,
+          98.17748014255076,
+          -1.8420133590698242
+        ],
+        "FACE_EYES": [
+          0,
+          97.32376230444365,
+          16.485898316384407
+        ],
+        "FACE_MOUTH": [
+          0,
+          86.22543040905111,
+          20.000043350279526
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          -1.8420133590698242
+        ],
+        "NECK": [
+          0,
+          75.55395743271212,
+          0
+        ],
+        "TORSO": [
+          0,
+          60.827324725364335,
+          0
+        ],
+        "WAIST": [
+          0,
+          46.10069201801654,
+          0
+        ]
+      }
+    },
+    "4HT-feminino": {
+      "id": "4HT-feminino",
+      "ratio": "4HT",
+      "gender": "feminino",
+      "sourceFile": "chibi-4ht-fft.glb",
+      "sourceSha256": "ffab2903ea93d79f168d2900d34cbb8519dd11b642165de33ef82bf66fd4ac8a",
+      "sourceMinY": -0.002504587173461914,
+      "sourceScaleToMm": 28.027444278693373,
+      "heightMm": 120,
+      "headWidth": 32.47834014892578,
+      "headDepth": 30.003202438354492,
+      "headHeight": 30.241989135742188,
+      "headCenterY": 105.45338766533241,
+      "headCenterZ": 0.4245929718017578,
+      "eyeY": 104.89283877975856,
+      "mouthY": 97.60570326729827,
+      "neckY": 89.75801886926413,
+      "waistY": 52.761792421388876,
+      "ankleY": 5.675686033184009,
+      "shortsY": 27.537092570564838,
+      "armSpan": 105.17481051745943,
+      "anchors": {
+        "HEAD": [
+          0,
+          105.45338766533241,
+          0.4245929718017578
+        ],
+        "FACE_EYES": [
+          0,
+          104.89283877975856,
+          14.00181625318001
+        ],
+        "FACE_MOUTH": [
+          0,
+          97.60570326729827,
+          15.189044361249785
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          0.4245929718017578
+        ],
+        "NECK": [
+          0,
+          89.75801886926413,
+          0
+        ],
+        "TORSO": [
+          0,
+          71.25990564532651,
+          0
+        ],
+        "WAIST": [
+          0,
+          52.761792421388876,
+          0
+        ]
+      }
+    },
+    "4HT-masculino": {
+      "id": "4HT-masculino",
+      "ratio": "4HT",
+      "gender": "masculino",
+      "sourceFile": "chibi-4ht-mft.glb",
+      "sourceSha256": "a02320923bc4292f8d515a5bf37c58b9f25eac3c5e60acd900e989d87189bfa6",
+      "sourceMinY": -0.0025014877319335938,
+      "sourceScaleToMm": 28.02746456810774,
+      "heightMm": 120,
+      "headWidth": 32.478363037109375,
+      "headDepth": 30.003223419189453,
+      "headHeight": 30.24200439453125,
+      "headCenterY": 105.45337713485942,
+      "headCenterZ": 0.4245929718017578,
+      "eyeY": 104.89282784349727,
+      "mouthY": 97.60568705578926,
+      "neckY": 89.7579969767191,
+      "waistY": 52.76174374681687,
+      "ankleY": 5.675603272395873,
+      "shortsY": 27.537025635519907,
+      "armSpan": 105.16670087616788,
+      "anchors": {
+        "HEAD": [
+          0,
+          105.45337713485942,
+          0.4245929718017578
+        ],
+        "FACE_EYES": [
+          0,
+          104.89282784349727,
+          14.001827355724203
+        ],
+        "FACE_MOUTH": [
+          0,
+          97.60568705578926,
+          15.188349295405771
+        ],
+        "HEAD_TOP": [
+          0,
+          120,
+          0.4245929718017578
+        ],
+        "NECK": [
+          0,
+          89.7579969767191,
+          0
+        ],
+        "TORSO": [
+          0,
+          71.25987036176798,
+          0
+        ],
+        "WAIST": [
+          0,
+          52.76174374681687,
+          0
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "eyes-round",
+      "name": "Olhos redondos",
+      "category": "eyes",
+      "type": "static-mesh",
+      "anchor": "FACE_EYES",
+      "directory": "face/eyes",
+      "notes": "Grandes, com íris e brilho.",
+      "color": "#5d3826",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "sclera",
+        "pupil",
+        "highlight"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 0.5,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/eyes-round.svg"
+    },
+    {
+      "id": "eyes-oval",
+      "name": "Olhos ovais",
+      "category": "eyes",
+      "type": "static-mesh",
+      "anchor": "FACE_EYES",
+      "directory": "face/eyes",
+      "notes": "Suaves, alongados verticalmente.",
+      "color": "#42736b",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "sclera",
+        "pupil",
+        "highlight"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 0.5,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/eyes-oval.svg"
+    },
+    {
+      "id": "eyes-soft",
+      "name": "Olhos serenos",
+      "category": "eyes",
+      "type": "static-mesh",
+      "anchor": "FACE_EYES",
+      "directory": "face/eyes",
+      "notes": "Levemente estreitos e tranquilos.",
+      "color": "#68769a",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "sclera",
+        "pupil",
+        "highlight"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 0.5,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/eyes-soft.svg"
+    },
+    {
+      "id": "mouth-neutral",
+      "name": "Boca neutra",
+      "category": "mouth",
+      "type": "static-mesh",
+      "anchor": "FACE_MOUTH",
+      "directory": "face/mouths",
+      "notes": "Traço suave em relevo.",
+      "color": "#82483f",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/mouth-neutral.svg"
+    },
+    {
+      "id": "mouth-smile",
+      "name": "Sorriso",
+      "category": "mouth",
+      "type": "static-mesh",
+      "anchor": "FACE_MOUTH",
+      "directory": "face/mouths",
+      "notes": "Curva simétrica e acolhedora.",
+      "color": "#82483f",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/mouth-smile.svg"
+    },
+    {
+      "id": "mouth-joy",
+      "name": "Alegria",
+      "category": "mouth",
+      "type": "static-mesh",
+      "anchor": "FACE_MOUTH",
+      "directory": "face/mouths",
+      "notes": "Sorriso aberto, com detalhe claro.",
+      "color": "#82483f",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/mouth-joy.svg"
+    },
+    {
+      "id": "hair-short",
+      "name": "Curto • ondulado",
+      "category": "hair",
+      "type": "static-mesh",
+      "anchor": "HEAD",
+      "directory": "hair",
+      "notes": "Franja lateral e volume esculpido.",
+      "color": "#3d2a25",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/hair-short.svg"
+    },
+    {
+      "id": "hair-medium",
+      "name": "Médio • bob",
+      "category": "hair",
+      "type": "static-mesh",
+      "anchor": "HEAD",
+      "directory": "hair",
+      "notes": "Contorno arredondado, abaixo das orelhas.",
+      "color": "#392b32",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/hair-medium.svg"
+    },
+    {
+      "id": "hair-long",
+      "name": "Longo • fluido",
+      "category": "hair",
+      "type": "static-mesh",
+      "anchor": "HEAD",
+      "directory": "hair",
+      "notes": "Mechas largas e queda posterior.",
+      "color": "#62402b",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/hair-long.svg"
+    },
+    {
+      "id": "cabelo-1",
+      "name": "Cabelo 1",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-1/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-1",
+      "notes": "Cabelo feminino estilo 1.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-1.svg"
+    },
+    {
+      "id": "cabelo-2",
+      "name": "Cabelo 2",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-2/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-2",
+      "notes": "Cabelo feminino estilo 2.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-2.svg"
+    },
+    {
+      "id": "cabelo-3",
+      "name": "Cabelo 3",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-3/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-3",
+      "notes": "Cabelo feminino estilo 3.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-3.svg"
+    },
+    {
+      "id": "cabelo-4",
+      "name": "Cabelo 4",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-4/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-4",
+      "notes": "Cabelo feminino estilo 4.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-4.svg"
+    },
+    {
+      "id": "cabelo-5",
+      "name": "Cabelo 5",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-5/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-5",
+      "notes": "Cabelo feminino estilo 5.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-5.svg"
+    },
+    {
+      "id": "cabelo-6",
+      "name": "Cabelo 6",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-6/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-6",
+      "notes": "Cabelo feminino estilo 6.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-6.svg"
+    },
+    {
+      "id": "cabelo-7",
+      "name": "Cabelo 7",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-7/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-7",
+      "notes": "Cabelo feminino estilo 7.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-7.svg"
+    },
+    {
+      "id": "cabelo-8",
+      "name": "Cabelo 8",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-8/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-8",
+      "notes": "Cabelo feminino estilo 8.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-8.svg"
+    },
+    {
+      "id": "cabelo-9",
+      "name": "Cabelo 9",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-9/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-9",
+      "notes": "Cabelo feminino estilo 9.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-9.svg"
+    },
+    {
+      "id": "cabelo-10",
+      "name": "Cabelo 10",
+      "category": "hair",
+      "type": "stl-mesh",
+      "loader": "stl",
+      "stlPath": "hair/cabelo-10/model.stl",
+      "anchor": "HEAD",
+      "directory": "hair/cabelo-10",
+      "notes": "Cabelo feminino estilo 10.",
+      "color": "#3d2a25",
+      "origin": "STL importado",
+      "compatibility": [
+        "2HT-feminino",
+        "3HT-feminino",
+        "4HT-feminino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long",
+        "accessory-cap",
+        "accessory-hat"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/cabelo-10.svg"
+    },
+    {
+      "id": "shirt-tee",
+      "name": "Camiseta essencial",
+      "category": "shirt",
+      "type": "static-mesh",
+      "anchor": "TORSO",
+      "directory": "clothing/shirts",
+      "notes": "Manga curta e acabamento na gola.",
+      "color": "#d98359",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/shirt-tee.svg"
+    },
+    {
+      "id": "shirt-polo",
+      "name": "Camisa com gola",
+      "category": "shirt",
+      "type": "static-mesh",
+      "anchor": "TORSO",
+      "directory": "clothing/shirts",
+      "notes": "Gola dividida, vista e botões.",
+      "color": "#7b9a89",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/shirt-polo.svg"
+    },
+    {
+      "id": "shirt-sweater",
+      "name": "Blusa atelier",
+      "category": "shirt",
+      "type": "static-mesh",
+      "anchor": "TORSO",
+      "directory": "clothing/shirts",
+      "notes": "Mangas longas, punhos e bolso frontal.",
+      "color": "#668493",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/shirt-sweater.svg"
+    },
+    {
+      "id": "pants-straight",
+      "name": "Calça reta",
+      "category": "pants",
+      "type": "static-mesh",
+      "anchor": "WAIST",
+      "directory": "clothing/pants",
+      "notes": "Silhueta ajustada com barra.",
+      "color": "#364c61",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/pants-straight.svg"
+    },
+    {
+      "id": "pants-shorts",
+      "name": "Short essencial",
+      "category": "pants",
+      "type": "static-mesh",
+      "anchor": "WAIST",
+      "directory": "clothing/pants",
+      "notes": "Comprimento acima do joelho.",
+      "color": "#8e775e",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/pants-shorts.svg"
+    },
+    {
+      "id": "pants-relaxed",
+      "name": "Calça casual",
+      "category": "pants",
+      "type": "static-mesh",
+      "anchor": "WAIST",
+      "directory": "clothing/pants",
+      "notes": "Folga ampliada e bolsos aplicados.",
+      "color": "#69725b",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/pants-relaxed.svg"
+    },
+    {
+      "id": "accessory-glasses",
+      "name": "Óculos redondos",
+      "category": "accessory",
+      "type": "static-mesh",
+      "anchor": "FACE_EYES",
+      "directory": "accessories/glasses",
+      "notes": "Armação, ponte e hastes; sem lentes.",
+      "color": "#c89955",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/accessory-glasses.svg"
+    },
+    {
+      "id": "accessory-cap",
+      "name": "Boné studio",
+      "category": "accessory",
+      "type": "static-mesh",
+      "anchor": "HEAD_TOP",
+      "directory": "accessories/hats",
+      "notes": "Copa ajustada e aba curva.",
+      "color": "#6c8792",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/accessory-cap.svg"
+    },
+    {
+      "id": "accessory-hat",
+      "name": "Chapéu bucket",
+      "category": "accessory",
+      "type": "static-mesh",
+      "anchor": "HEAD_TOP",
+      "directory": "accessories/hats",
+      "notes": "Copa arredondada e aba descendente.",
+      "color": "#bfa47a",
+      "origin": "NATIVOS / procedural fitted geometry",
+      "compatibility": [
+        "2HT-feminino",
+        "2HT-masculino",
+        "3HT-feminino",
+        "3HT-masculino",
+        "4HT-feminino",
+        "4HT-masculino"
+      ],
+      "conflicts": [
+        "hair-short",
+        "hair-medium",
+        "hair-long"
+      ],
+      "materialSlots": [
+        "primary",
+        "trim"
+      ],
+      "defaultTransform": {
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "units": "millimeter",
+      "nominalMinimumFeatureMm": 1.2,
+      "minimumThicknessVerified": false,
+      "printStatus": "requires-assembly-validation",
+      "thumbnail": "thumbnails/accessory-hat.svg"
+    }
+  ],
+  "facePresets": [
+    {
+      "id": "gentle",
+      "name": "Suave",
+      "eyes": "eyes-oval",
+      "mouth": "mouth-neutral"
+    },
+    {
+      "id": "friendly",
+      "name": "Amigável",
+      "eyes": "eyes-round",
+      "mouth": "mouth-smile"
+    },
+    {
+      "id": "joyful",
+      "name": "Alegre",
+      "eyes": "eyes-soft",
+      "mouth": "mouth-joy"
+    }
+  ]
+}
