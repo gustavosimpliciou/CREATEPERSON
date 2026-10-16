@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "NATIVOS Character Studio"
+description = "Editor web interativo para montar e personalizar personagens colecionáveis 3D, com câmera de estúdio, ajustes em tempo real e exportação progressiva para impressão 3D."
+version = "1.0.0"
+id = "artifacts/nativos-character-studio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21902
+
+[services.development]
+run = "pnpm --filter @workspace/nativos-character-studio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nativos-character-studio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nativos-character-studio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21902"
+BASE_PATH = "/"

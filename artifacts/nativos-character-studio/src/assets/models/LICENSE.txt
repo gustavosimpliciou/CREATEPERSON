@@ -1,0 +1,47 @@
+Chibi Base Mesh Pack – License Agreement
+
+Copyright © 2026 – Dreamloft3D
+All rights reserved.
+
+✅ Permitted Uses
+
+By purchasing or downloading this asset pack, you are granted a non-exclusive, non-transferable license to use the included assets for:
+
+Personal projects
+
+Commercial projects (games, animations, illustrations, videos, etc.)
+
+Modifying, adapting, and customizing the meshes for your own projects
+
+Using the assets as part of a larger work or final product
+
+You may use the assets in both free and paid projects, including commercial releases.
+
+❌ Prohibited Uses
+
+You may NOT:
+
+Resell, redistribute, or share the assets as-is or modified, either for free or for sale
+
+Include the assets in asset packs, templates, base mesh collections, or similar products
+
+Claim the original meshes as your own work
+
+Upload the assets to marketplaces, repositories, or model-sharing websites as standalone files
+
+This includes redistribution in formats such as .blend, .fbx, .obj, .glb, or any other 3D format.
+
+📦 Free Version Notice
+
+The free version of this asset pack is provided for evaluation and limited use.
+Redistribution of the free assets is not allowed, except when included in a final project (game, render, animation, etc.).
+
+⚠️ No Warranty
+
+This asset pack is provided “as is”, without warranty of any kind.
+The creator is not responsible for any damages, losses, or issues arising from the use of these assets.
+
+📩 Contact
+
+For questions regarding this license or usage permissions, please contact:
+Dreamloft3D

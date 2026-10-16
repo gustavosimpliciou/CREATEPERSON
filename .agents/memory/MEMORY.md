@@ -1,0 +1,1 @@
+- [Dreamloft3D Chibi asset license](dreamloft3d-asset-license.md) — do not redistribute the supplied meshes as standalone or modified assets.
